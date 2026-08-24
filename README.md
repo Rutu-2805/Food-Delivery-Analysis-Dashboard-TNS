@@ -44,7 +44,7 @@ Excel/CSV → Power Query → Data Transformation → DAX Measures → Power BI 
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The dataset (`Orders` table) includes fields such as:
 
@@ -67,14 +67,4 @@ The dataset (`Orders` table) includes fields such as:
 
 ---
 
-## Dashboard Preview
-
-### Overview
-![Overview Dashboard](ScreenShots/FD1.jpeg)
-
-### Revenue Analysis
-![Revenue Analysis](ScreenShots/FD2.jpeg)
-
-### Customer Analysis
-![Customer Analysis](ScreenShots/FD3.jpeg)
 
