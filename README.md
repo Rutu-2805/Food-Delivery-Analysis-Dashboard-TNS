@@ -1,13 +1,13 @@
 # Food-Delivery-Analysis-Dashboard-TNS
 This project solves that by building a single interactive dashboard that lets anyone — without digging through spreadsheets — instantly understand what's happening across the business.
 
-# 🍔 Food Delivery Analysis Dashboard using Power BI
+# Food Delivery Analysis Dashboard using Power BI
 
 An interactive Power BI dashboard that analyzes food delivery operations — orders, revenue, delivery performance, food categories, customer ratings, and restaurant performance — turning raw, hard-to-read data into clear, actionable insights.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Food delivery companies receive thousands of orders every day. Manually tracking metrics like delivery performance, customer satisfaction, and restaurant performance is challenging due to the sheer volume of raw data.
 
@@ -15,7 +15,7 @@ This project solves that by building a single interactive dashboard that lets an
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - **Orders & Revenue** — Track total orders and revenue trends
 - **Delivery Performance** — Identify which restaurants/cities deliver fastest, and spot bottlenecks
@@ -25,7 +25,7 @@ This project solves that by building a single interactive dashboard that lets an
 
 ---
 
-## 🛠️ Tools & Tech Stack
+## Tools & Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -36,7 +36,7 @@ This project solves that by building a single interactive dashboard that lets an
 
 ---
 
-## 📊 Data Flow
+## Data Flow
 
 ```
 Excel/CSV → Power Query → Data Transformation → DAX Measures → Power BI Dashboard → Business Insights
@@ -59,11 +59,22 @@ The dataset (`Orders` table) includes fields such as:
 - City
 - Customer Rating
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 - **Overview Dashboard** — Total orders, total revenue, average rating at a glance
 - **Delivery Performance Analysis** — Delivery time by city, order status breakdown, delivery bottlenecks
 - **Restaurant Analysis** — Top restaurants by revenue, rating comparisons, performance benchmarking
 
 ---
+
+## Dashboard Preview
+
+### Overview
+![Overview Dashboard](ScreenShots/FD1.jpeg)
+
+### Revenue Analysis
+![Revenue Analysis](ScreenShots/FD2.jpeg)
+
+### Customer Analysis
+![Customer Analysis](ScreenShots/FD3.jpeg)
 
