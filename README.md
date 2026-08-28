@@ -1,6 +1,3 @@
-# Food-Delivery-Analysis-Dashboard-TNS
-This project solves that by building a single interactive dashboard that lets anyone — without digging through spreadsheets — instantly understand what's happening across the business.
-
 # Food Delivery Analysis Dashboard using Power BI
 
 An interactive Power BI dashboard that analyzes food delivery operations — orders, revenue, delivery performance, food categories, customer ratings, and restaurant performance — turning raw, hard-to-read data into clear, actionable insights.
@@ -62,6 +59,8 @@ The dataset (`Orders` table) includes fields such as:
 ## Dashboard Highlights
 
 - **Overview Dashboard** — Total orders, total revenue, average rating at a glance
+  [![Food Delivery Dashboard](ScreenShots/FD1.jpeg)](ScreenShots/FD1.jpeg)
+  
 - **Delivery Performance Analysis** — Delivery time by city, order status breakdown, delivery bottlenecks
 - **Restaurant Analysis** — Top restaurants by revenue, rating comparisons, performance benchmarking
 
