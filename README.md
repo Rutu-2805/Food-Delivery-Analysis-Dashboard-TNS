@@ -59,7 +59,7 @@ The dataset (`Orders` table) includes fields such as:
 ## Dashboard Highlights
 
 - **Overview Dashboard** — Total orders, total revenue, average rating at a glance
-  [![Food Delivery Dashboard](ScreenShots/FD1.jpeg)](ScreenShots/FD1.jpeg)
+  ![Food Delivery Dashboard](ScreenShots/FD1.jpeg)
   
 - **Delivery Performance Analysis** — Delivery time by city, order status breakdown, delivery bottlenecks
 - **Restaurant Analysis** — Top restaurants by revenue, rating comparisons, performance benchmarking
